@@ -1,4 +1,4 @@
-#Data Structures using C
+# Data Structures using C
 This repository contains implementations of various data structures using the C programming language. Each data structure is implemented with clear explanations and examples for better understanding.
 
 **Data Structures Included**
