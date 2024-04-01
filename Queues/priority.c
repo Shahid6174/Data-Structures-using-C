@@ -90,7 +90,8 @@ int main()
     int item;
     for(;;)
     {
-        printf("Enter 1.Insert_rear 2.Delete_Front 3.Delete_small 4.Display and 4.Exit: ");
+        printf("1.Insert_rear 2.Delete_Front 3.Delete_small 4.Display and 4.Exit\n");
+        printf("Enter your choice: ");
         scanf("%d", &choice);
         switch (choice)
         {
