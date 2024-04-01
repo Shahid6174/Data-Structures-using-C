@@ -63,7 +63,7 @@ NODE delete_rear(NODE first)
     }
     cur = first;
     prev = NULL;
-    while(cur->link != 0)
+    while(cur->link != NULL)
     {
         prev = cur;
         cur = cur->link;
